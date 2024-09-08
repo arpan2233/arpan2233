@@ -15,7 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## This Side ARPAN
-
-<img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png"/>
-<img src="https://assets.leetcode.com/static_assets/marketing/2024-100-lg.png">
-<img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif">
+<style>
+  .badges{
+    display:flex;
+    width:100%;
+    padding:10px;
+    justify-content:space-around;
+  }
+  .badges img{
+    width: 150px;
+    height:150px;
+  }
+</style>
+<div class="badges">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png"/>
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-lg.png">
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif">
+</div>
