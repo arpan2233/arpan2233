@@ -31,7 +31,10 @@ Here are some ideas to get you started:
     </styles>
     </head>
   <body>
-<div className="badges">
+<div class="badges" styles={display:flex;
+        width:100%;
+        padding:10px;
+        justify-content:space-around;}>
     <img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png"/>
     <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-lg.png">
     <img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif">
