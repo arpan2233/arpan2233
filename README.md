@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/arpanr70/"><img align="center"  src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ig-instagram-icon.svg" height="30" width="40" /></a>
       <a href="https://www.linkedin.com/in/arpan-rohilla-65991b256"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.svg"height="30" width="40"  /></a>
       <a href="https://x.com/ARPAN__R"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-logo-icon.svg" height="30" width="40" /></a>
-      <a href="https://github.com/arpan2233"><img align="center" src="https://img.icons8.com/?size=50&id=12599&format=png"height="30" width="40"  /></a>
+      <a href="https://github.com/arpan2233"><img align="center" src="https://img.icons8.com/?size=50&id=12599&format=png" height="30" width="40"  /></a>
 </p>
 
 <h3 align="left" >Languages and Tools:</h3>
