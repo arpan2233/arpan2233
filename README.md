@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## This Side ARPAN
-<div style="display: flex; width: 100%; gap: 10px; border: 10px solid red;">
+<div style="display: flex; gap: 100px; border: 10px solid red;">
     <img style="width: 100px;  height:100px;" src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png"/>
     <img style="width: 100px;  height:100px;" src="https://assets.leetcode.com/static_assets/marketing/2024-100-lg.png">
     <img style="width: 100px;  height:100px;" src="https://leetcode.com/static/images/badges/dcc-2024-3.png">
