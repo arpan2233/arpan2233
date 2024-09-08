@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## This Side ARPAN
-<div style="display:flex; width: 1000px; padding: 10px; justify-content: space-around; border:1px solid white;">
+<div style="display:flex; width: 1000px; padding: 10px; justify-content: space-around; border: 1px solid white;">
     <img style="width: 100px;  height:100px;" src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png"/>
-    <img style="width: 150px;  height:150px;" src="https://assets.leetcode.com/static_assets/marketing/2024-100-lg.png">
-    <img style="width: 150px;  height:150px;" src="https://leetcode.com/static/images/badges/dcc-2024-3.png">
+    <img style="width: 100px;  height:100px;" src="https://assets.leetcode.com/static_assets/marketing/2024-100-lg.png">
+    <img style="width: 100px;  height:100px;" src="https://leetcode.com/static/images/badges/dcc-2024-3.png">
 </div>
