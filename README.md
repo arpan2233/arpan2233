@@ -31,7 +31,7 @@ Here are some ideas to get you started:
     </styles>
     </head>
   <body>
-<div class="badges">
+<div className="badges">
     <img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png"/>
     <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-lg.png">
     <img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif">
