@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.instagram.com/arpanr70/"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ig-instagram-icon.svg" /></a>
-      <a href="https://www.linkedin.com/in/arpan-rohilla-65991b256"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.svg" /></a>
-      <a href="https://x.com/ARPAN__R"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-logo-icon.svg" /></a>
-      <a href="https://github.com/arpan2233"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-icon.svg" /></a>
+<a href="https://www.instagram.com/arpanr70/"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ig-instagram-icon.svg" height="30" width="40" /></a>
+      <a href="https://www.linkedin.com/in/arpan-rohilla-65991b256"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.svg"height="30" width="40"  /></a>
+      <a href="https://x.com/ARPAN__R"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-logo-icon.svg" height="30" width="40" /></a>
+      <a href="https://github.com/arpan2233"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-icon.svg"height="30" width="40"  /></a>
 <a href="https://www.leetcode.com/acear_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="acear_1" height="30" width="40" /></a>
 </p>
 
