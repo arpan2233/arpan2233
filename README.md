@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png"/>
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-lg.png">
-![dcc-2024-3](https://github.com/user-attachments/assets/a0cf1b7f-c5bd-4bfc-ba1f-e717b2720597)
+<img src="https://github.com/user-attachments/assets/a0cf1b7f-c5bd-4bfc-ba1f-e717b2720597">
