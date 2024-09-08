@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## This Side ARPAN
+<html>
+  <head>
 <style>
   .badges{
     display:flex;
@@ -27,8 +29,12 @@ Here are some ideas to get you started:
     height:150px;
   }
 </style>
+    </head>
+  <body>
 <div class="badges">
     <img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png"/>
     <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-lg.png">
     <img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif">
 </div>
+    </body>
+</html>
