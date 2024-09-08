@@ -12,12 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-      <h1 align="center">Hi 👋, I'm Arpan</h1>
+      
+<h1 align="center">Hi 👋, I'm Arpan</h1>
 <h3 align="center">A passionate Full-Stack Developer and Competetive Programmer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpan2233&label=Profile%20views&color=0e75b6&style=flat" alt="arpan2233" /> </p>
-<p ><img height="100" width="100" src="https://images.pexels.com/photos/1103970/pexels-photo-1103970.jpeg?auto=compress&cs=tinysrgb&w=600"/></p>
-
+<!-- <p ><img height="100" width="100" src="https://images.pexels.com/photos/1103970/pexels-photo-1103970.jpeg?auto=compress&cs=tinysrgb&w=600"/></p> -->
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=arpan2233" alt="arpan2233" /> </p>
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://arpan-portfolio-1.vercel.app/](https://arpan-portfolio-1.vercel.app/)
