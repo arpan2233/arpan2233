@@ -36,7 +36,6 @@ Here are some ideas to get you started:
       <a href="https://www.linkedin.com/in/arpan-rohilla-65991b256"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.svg"height="30" width="40"  /></a>
       <a href="https://x.com/ARPAN__R"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-logo-icon.svg" height="30" width="40" /></a>
       <a href="https://github.com/arpan2233"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-icon.svg"height="30" width="40"  /></a>
-<a href="https://www.leetcode.com/acear_1" target="blank"><img align="center" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="acear_1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left" >Languages and Tools:</h3>
