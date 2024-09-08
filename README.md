@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpan2233&label=Profile%20views&color=0e75b6&style=flat" alt="arpan2233" /> </p>
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=arpan2233" alt="arpan2233" /> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=arpan2233" alt="arpan2233" /> </p>
 
 - 🌱 I’m currently learning **React**
 
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arpan2233&show_icons=true&locale=en" alt="arpan2233" /></p>
 
-<div style="display: flex;  border: 10px solid red;">
+<div style="display: flex;  border: 10px solid red; align:"center">
     <img style="width: 100px;  height:100px; margin: 10px;" src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png"/>
     <img style="width: 100px;  height:100px; margin: 10px;" src="https://assets.leetcode.com/static_assets/marketing/2024-100-lg.png">
     <img style="width: 100px;  height:100px; margin: 10px;" src="https://leetcode.com/static/images/badges/dcc-2024-3.png">
