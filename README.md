@@ -17,18 +17,18 @@ Here are some ideas to get you started:
 ## This Side ARPAN
 <html>
   <head>
-<style>
-  .badges{
-    display:flex;
-    width:100%;
-    padding:10px;
-    justify-content:space-around;
-  }
-  .badges img{
-    width: 150px;
-    height:150px;
-  }
-</style>
+    <styles>
+      .badges{
+        display:flex;
+        width:100%;
+        padding:10px;
+        justify-content:space-around;
+      }
+      .badges img{
+        width: 150px;
+        height:150px;
+      }
+    </styles>
     </head>
   <body>
 <div class="badges">
