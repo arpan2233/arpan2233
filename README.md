@@ -46,3 +46,11 @@ Here are some ideas to get you started:
     <img style="width: 100px;  height:100px; margin: 10px;" src="https://assets.leetcode.com/static_assets/marketing/2024-100-lg.png">
     <img style="width: 100px;  height:100px; margin: 10px;" src="https://leetcode.com/static/images/badges/dcc-2024-3.png">
 </div>
+
+
+
+<div class="bg-layer-1 dark:bg-dark-layer-1 shadow-down-01 dark:shadow-dark-down-01 rounded-lg lc-md:pb-4 flex h-auto flex-col space-y-4 p-4 pb-0">…</div>flex
+
+
+
+
