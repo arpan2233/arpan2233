@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<body style="background-image: url('https://images.pexels.com/photos/1103970/pexels-photo-1103970.jpeg?auto=compress&cs=tinysrgb&w=600');">
+<div style="background-image: url('https://images.pexels.com/photos/1103970/pexels-photo-1103970.jpeg?auto=compress&cs=tinysrgb&w=600');"></div>
       <h1 align="center">Hi 👋, I'm Arpan</h1>
 <h3 align="center">A passionate Full-Stack Developer and Competetive Programmer from India</h3>
 
@@ -47,7 +47,6 @@ Here are some ideas to get you started:
     <img style="width: 100px;  height:100px; margin: 10px;" src="https://assets.leetcode.com/static_assets/marketing/2024-100-lg.png">
     <img style="width: 100px;  height:100px; margin: 10px;" src="https://leetcode.com/static/images/badges/dcc-2024-3.png">
 </div>
-</body>
 
 
 
