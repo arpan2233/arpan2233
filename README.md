@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ## This Side ARPAN
 
-<img src="[https://github.com/user-attachments/assets/5c07dbd3-30f3-4af2-ba25-4c66829a5a62](https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png)"/>
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png"/>
